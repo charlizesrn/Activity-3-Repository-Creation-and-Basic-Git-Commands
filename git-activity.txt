@@ -4,11 +4,5 @@ October 17, 2026
 
 -
 
-This is my first Git activity.
-This is where I'll practice branch, merge, and committing my changes. 
-October 17, 2026
-
--
-
 Hello, World!
 This was added in a new feature branch to practice committing and merging changes. 
