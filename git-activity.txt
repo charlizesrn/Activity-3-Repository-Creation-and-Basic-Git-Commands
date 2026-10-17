@@ -1,0 +1,3 @@
+This is my first Git activity.
+This is where I'll practice branch, merge, and committing my changes. 
+October 17, 2026
